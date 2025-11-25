@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow - Agentic Editor",
+  "description": "An AI-powered document editor inspired by Cursor. Features context-aware writing assistance, inline edits, and a chat-to-document workflow.",
+  "requestFramePermissions": []
+}
